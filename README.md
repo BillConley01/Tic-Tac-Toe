@@ -10,7 +10,7 @@ A responsive Tic Tac Toe Game Using React
 </ol>
 <img src="./tictactoe.png"/>
 <h2>To see the web page in action follow this link:</h2>
-<a href="https://ut8l5.csb.app/">Link to React Code Sandbox</a>
+<a href="https://p9ofk.csb.app/">Link to React Code Sandbox</a>
 <h2>To use:</h2>
 <ul>
 <li>Fork this repository</li>
