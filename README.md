@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 A responsive Tic Tac Toe Game Using React
-<p>This is the code for a basic Tic Tac Toe game made with React. It originated from an assignment in Week #15 of MIT's MERN Coding Bootcamp. The challenge was to fetch data from an external source and build a site and user experience around the data organizing and displaying the fetched data in a way that is appropriate to the story being told with the data. .</p>
-
+<p>This is the code for a basic Tic Tac Toe game made with React. It originated from an assignment in Week #16 of MIT's MERN Coding Bootcamp. The challenge was to demonstrate the ability to communicate between parent and child components and add features.</p>
 <h2>Features</h2>
 <ol>
 <li>React state and callbacks are used to communicate between parent and child components of the game.</li>
